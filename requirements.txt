@@ -1,0 +1,4 @@
+nltk==3.8.1
+pandas==2.2.2
+plotly==5.22.0
+wordcloud==1.9.3
